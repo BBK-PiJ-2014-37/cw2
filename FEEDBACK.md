@@ -1,0 +1,1 @@
+It would have been useful to see some comments/description in the Fraction class. Even if the methods seem self-evident it is still good to provide some information for the user/maintainer of your code. Consider using a Set for input validation. Testing is very good. Well done.
